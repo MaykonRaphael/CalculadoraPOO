@@ -1,0 +1,8 @@
+# Class UserInterface
+## Responsável por mostrar as opções iniciais do programa e por receber os dois números digitados pelo usuário.
+---
+# Class Calculator
+## Responsável por mostrar as opções de cálculo disponíveis para o usuário e realizar o cálculo desejado. Também adiciona o cálculo no histórico e mostra o que foi salvo no histórico quando solicitado.
+
+# Class Main
+## Inicia o programa.
